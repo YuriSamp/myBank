@@ -7,4 +7,4 @@ Esse foi o jeito que montei o layout, e para fazer os inputs de gastos, descriç
 
 ![Captura de tela 2022-08-30 120600](https://user-images.githubusercontent.com/103132957/187472746-4e248c81-6c4d-4e33-a715-7cc2e360e375.png)
 
-Teve algumas ideias de features que ficaram pelo caminho pois eu não sabia implementar sem causar diversos bugs, mas é algo que planejo aprender para o meu proximo projeto!!
+Teve algumas ideias de features que ficaram pelo caminho pois eu não sabia implementar sem causar diversos bugs, mas é algo que irei aprender para o meu proximo projeto!!🚀
