@@ -1,5 +1,5 @@
 # myBank
-Olá, bem vindo ao meu Projeo myBank, foi minha primeira aplicação React e o intuito era um lugar para armazernar os gastos e um layout que computasse os input
+Olá, bem vindo ao meu Projeto myBank, foi minha primeira aplicação React e o intuito era um lugar para armazernar os gastos e um layout que computasse os input
 
 ![Primeiro Projeto React](https://user-images.githubusercontent.com/103132957/187472425-6ece2744-3b3c-4e67-ad49-6af6a21a1778.png)
 
